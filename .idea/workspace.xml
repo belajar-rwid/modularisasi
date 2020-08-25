@@ -8,9 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="249d9ad8-394a-441c-be81-ce4a49a4ea9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="249d9ad8-394a-441c-be81-ce4a49a4ea9c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     <setting file="file://$PROJECT_DIR$/geometri/__init__.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1gZdNwVXLpqFoLqhi5JooH9nGet" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598356349563</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="penggunaan package external dengan requests">
+      <created>1598356694640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598356694640</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +218,7 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="penggunaan package external dengan requests" />
@@ -223,10 +229,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="404" y="222" width="615" height="350" key="#Notifications/67.27.1299.741@67.27.1299.741" timestamp="1598354449579" />
-    <state x="264" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1598356349481">
+    <state x="264" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1598356694300">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="264" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1598356349481" />
+    <state x="264" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1598356694300" />
     <state x="317" y="86" width="1039" height="622" key="DiffContextDialog" timestamp="1598355791285">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -255,10 +261,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1598349598325" />
-    <state x="311" y="133" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1598356491727">
+    <state x="311" y="133" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1598356707060">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="133" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1598356491727" />
+    <state x="311" y="133" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1598356707060" />
     <state x="498" y="312" width="427" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598356263407">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -267,5 +273,15 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1598341359043" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/geometri/persegi_panjang.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
