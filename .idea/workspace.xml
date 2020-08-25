@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="249d9ad8-394a-441c-be81-ce4a49a4ea9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Andik Purnomo &lt;naduiki@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/use_geometri.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/geometri/__init__.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1gZdNwVXLpqFoLqhi5JooH9nGet" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.use_requests">
+    <configuration name="modularisasi_tahap_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="modularisasi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modularisasi_tahap_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_geometri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="modularisasi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_geometri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_requests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="modularisasi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_requests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.use_requests" />
+        <item itemvalue="Python.use_geometri" />
+        <item itemvalue="Python.modularisasi_tahap_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="249d9ad8-394a-441c-be81-ce4a49a4ea9c" name="Default Changelist" comment="" />
+      <created>1598326013451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598326013451</updated>
+    </task>
+    <task id="LOCAL-00001" summary="penggunaan package external dengan requests">
+      <created>1598352641321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598352641321</updated>
+    </task>
+    <task id="LOCAL-00002" summary="penggunaan package external dengan requests">
+      <created>1598354116898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598354116898</updated>
+    </task>
+    <task id="LOCAL-00003" summary="penggunaan package external dengan requests">
+      <created>1598354395274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598354395274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="penggunaan package external dengan requests">
+      <created>1598355107756</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598355107756</updated>
+    </task>
+    <task id="LOCAL-00005" summary="penggunaan package external dengan requests">
+      <created>1598355643958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598355643958</updated>
+    </task>
+    <task id="LOCAL-00006" summary="penggunaan package external dengan requests">
+      <created>1598356349563</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598356349563</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="penggunaan package external dengan requests" />
+    <option name="LAST_COMMIT_MESSAGE" value="penggunaan package external dengan requests" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="222" width="615" height="350" key="#Notifications" timestamp="1598354449579">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="404" y="222" width="615" height="350" key="#Notifications/67.27.1299.741@67.27.1299.741" timestamp="1598354449579" />
+    <state x="264" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1598356349481">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="264" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1598356349481" />
+    <state x="317" y="86" width="1039" height="622" key="DiffContextDialog" timestamp="1598355791285">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="317" y="86" width="1039" height="622" key="DiffContextDialog/67.27.1299.741@67.27.1299.741" timestamp="1598355791285" />
+    <state width="628" height="165" key="GridCell.Tab.0.bottom" timestamp="1598356501498">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="628" height="165" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1598356501498" />
+    <state width="628" height="165" key="GridCell.Tab.0.center" timestamp="1598356501497">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="628" height="165" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1598356501497" />
+    <state width="628" height="165" key="GridCell.Tab.0.left" timestamp="1598356501497">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="628" height="165" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1598356501497" />
+    <state width="628" height="165" key="GridCell.Tab.0.right" timestamp="1598356501498">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="628" height="165" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1598356501498" />
+    <state x="478" y="81" width="474" height="633" key="RollbackChangesDialog" timestamp="1598353826622">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="478" y="81" width="474" height="633" key="RollbackChangesDialog/67.27.1299.741@67.27.1299.741" timestamp="1598353826622" />
+    <state x="205" y="33" key="SettingsEditor" timestamp="1598349598325">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1598349598325" />
+    <state x="311" y="133" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1598356491727">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="133" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1598356491727" />
+    <state x="498" y="312" width="427" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598356263407">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="498" y="312" width="427" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1598356263407" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598341359043">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1598341359043" />
+  </component>
+</project>
