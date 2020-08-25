@@ -7,7 +7,7 @@ try:
         print(f'Success!!{response.status_code}')
         print(f'Content{response.text}')
     else:
-        print(f'Woops, ada kesalahan requests {response.status_code}')
+        print(f'Woops, ada kesalahan requests  {response.status_code}')
 
 except Exception as e:
     print('There is an error', {e})
