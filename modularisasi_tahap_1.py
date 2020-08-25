@@ -6,7 +6,7 @@ print('\nmenghitung luas segitiga tanpa fungsi')
 alas = 10
 tinggi = 6
 luas_segitiga = alas * tinggi / 2
-print(f'segitiga dengan alas={alas} dan tinggi={tinggi} memiliki luas {luas_segitiga}')
+print(f'segitiga dengan allas={alas} dan tinggi={tinggi} memiliki luas {luas_segitiga}')
 
 print('\nmembuat fungsi hitung_luas_segitiga')
 def hitung_luas_segitiga(alas,tinggi) :
